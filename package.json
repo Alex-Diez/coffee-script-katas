@@ -1,0 +1,19 @@
+{
+  "name": "coffeescript-tdd-katas",
+  "version": "1.0.0",
+  "description": "TDD code katas in CoffeeScript",
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "jest-preset-coffeescript"
+  },
+  "author": "Alex-Diez",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^21.1.0",
+    "coffeescript": "^2.2.3",
+    "jest": "^21.1.0",
+    "jest-preset-coffeescript": "^1.0.0"
+  }
+}
