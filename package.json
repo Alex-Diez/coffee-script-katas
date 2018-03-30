@@ -14,6 +14,7 @@
     "babel-jest": "^21.1.0",
     "coffeescript": "^2.2.3",
     "jest": "^21.1.0",
-    "jest-preset-coffeescript": "^1.0.0"
+    "jest-preset-coffeescript": "^1.0.0",
+    "npx": "^10.0.1"
   }
 }
